@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephThomasPlappallil
-- 👀 I’m interested in python R C# Unity Data Science
-- 🌱 I’m currently learning Unity C# .net 
+- 👀 I’m interested in Python Data Science Ml Java
+- 🌱 I’m currently learning Quarkus 
 - 💞️ I’m looking to collaborate on C# R and Python
 - 📫 How to reach me https://www.linkedin.com/in/joseph-plappallil-0b2a90175/
 
