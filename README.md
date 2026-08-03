@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosephThomasPlappallil
+- 👋 Hi, I’m Joseph Thomas
 - 👀 I’m interested in Python Data Science Ml Java
 - 🌱 I’m currently learning React Vue3 Flutter Mendix SpringBoot and Quarkus 
 - 💞️ I’m looking to collaborate on C# Java Quarkus Vue React Spring-Boot and Python
